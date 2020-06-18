@@ -1,0 +1,31 @@
+body {
+    background-color: #FFECE6;
+}
+.navbar-branc {
+    color: #FDAF9B;
+    font-size: 23px;
+    font-weight: 800;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+.navbar-branc:hover {
+    color: rgba(224, 121, 238, 0.8);
+    text-decoration: none;
+}
+.btn {
+    background-color: #FDAF9B;
+    border: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.btn:hover.btn-primary:hover {
+    background-color: rgba(224, 121, 238, 0.8);
+}
+.btn.btn-danger {
+    color: white;
+}
+.btn.btn-danger:hover {
+    color: white;
+    background-color: rgba(224, 121, 238, 0.8);
+}
